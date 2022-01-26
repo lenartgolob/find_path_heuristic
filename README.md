@@ -29,6 +29,7 @@ The problem can be saved with 4 different algorithms:
 ## Results
 The result is a visual representation of the best path and some statistics in the console so we can see the differences between algorithms.
 ### Example for labyrinth_1.txt with A* algorithm
+![image](https://user-images.githubusercontent.com/38143019/151164179-63a17660-60fc-4af9-82c0-7f64814b6c4a.png)
 
 Path:
 (1, 1),
